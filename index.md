@@ -23,6 +23,9 @@ Binary Security Researcher
 Binary Security Researcher
 
 **Zhang Mingxu(Plazx)**  
+Student, Web/Binary Security Researcher
+
+**Cronbit0n**  
 Student, Web Security Researcher
 
 # Vulnerabilitys we found: 
