@@ -1,5 +1,7 @@
 # _config.yml
+title: Pwner Org (Pwner Organization)
+description: Pwn the System, Own the System
+logo: /assets/img/logo.png
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
-
-title: Our Team
-description: Building useful things together.
