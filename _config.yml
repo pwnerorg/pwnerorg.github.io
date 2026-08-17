@@ -2,6 +2,5 @@
 title: Pwner Org
 description: Pwn the System, Own the System<br><br>Our members specialize in IoT vulnerability research, Windows/Linux kernel vulnerability research, and Web middleware security research.
 logo: /123.jpg
-show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
